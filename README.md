@@ -12,3 +12,15 @@ Whether you're a casual gamer looking to explore new worlds or a competitive pla
 
 ## Join the Adventure
 Ready to start your journey? **Game Strix** awaits you with endless adventures, battles, and triumphs. Join us now and let the games begin!
+
+
+
+## Copyright Information
+
+**© [2025] [Chamika Munithunga]**. All Rights Reserved.
+
+This repository and its content are protected under copyright law. The code, documentation, and associated assets are the exclusive property of **[Chamika Munithunga]** and may not be reproduced, distributed, or used without prior written consent.
+
+
+
+**Disclaimer**: All trademarks, registered trademarks, and logos are the property of their respective owners.
